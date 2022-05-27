@@ -1,0 +1,230 @@
+id: I6CFDC77F
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T15:31:04.409462'
+last_modified: '2022-05-27T15:31:04.409597'
+parser: null
+source_metadata:
+  title: Pratyutpannabuddhasamādhisūtra
+  language: en
+  base:
+    fB19B:
+      title: Title
+      base_file: fB19B.txt
+      order: 1
+    f25AB:
+      title: Introduction
+      base_file: f25AB.txt
+      order: 2
+    fF990:
+      title: CI_§1A
+      base_file: fF990.txt
+      order: 3
+    f5345:
+      title: CI_§1B
+      base_file: f5345.txt
+      order: 4
+    fBC44:
+      title: CI_§1C
+      base_file: fBC44.txt
+      order: 5
+    fDECD:
+      title: CI_§1D
+      base_file: fDECD.txt
+      order: 6
+    f8D93:
+      title: CI_§1E
+      base_file: f8D93.txt
+      order: 7
+    f34CC:
+      title: CI_§1F
+      base_file: f34CC.txt
+      order: 8
+    fB328:
+      title: CI_§1G
+      base_file: fB328.txt
+      order: 9
+    fEAE9:
+      title: CI_§1H
+      base_file: fEAE9.txt
+      order: 10
+    f3213:
+      title: CI_§1I
+      base_file: f3213.txt
+      order: 11
+    fBC5E:
+      title: CI_§1J
+      base_file: fBC5E.txt
+      order: 12
+    fD12A:
+      title: CI_§1K
+      base_file: fD12A.txt
+      order: 13
+    fA0FF:
+      title: CI_§1L
+      base_file: fA0FF.txt
+      order: 14
+    f7BB7:
+      title: CI_§1M
+      base_file: f7BB7.txt
+      order: 15
+    f5885:
+      title: CI_§1N
+      base_file: f5885.txt
+      order: 16
+    f71C9:
+      title: CI_§1O
+      base_file: f71C9.txt
+      order: 17
+    fAF50:
+      title: CI_§1P
+      base_file: fAF50.txt
+      order: 18
+    fC465:
+      title: CI_§1Q
+      base_file: fC465.txt
+      order: 19
+    f8A9B:
+      title: CI_§1R
+      base_file: f8A9B.txt
+      order: 20
+    f44F4:
+      title: CI_§1S
+      base_file: f44F4.txt
+      order: 21
+    f552A:
+      title: CI_§1T
+      base_file: f552A.txt
+      order: 22
+    f345C:
+      title: CI_§1U
+      base_file: f345C.txt
+      order: 23
+    f877A:
+      title: CI_§1V
+      base_file: f877A.txt
+      order: 24
+    fCB38:
+      title: CI_§1W
+      base_file: fCB38.txt
+      order: 25
+    f6BF4:
+      title: CI_§1X
+      base_file: f6BF4.txt
+      order: 26
+    f9DD1:
+      title: CI_§1Y
+      base_file: f9DD1.txt
+      order: 27
+    fE85C:
+      title: CII_§2A
+      base_file: fE85C.txt
+      order: 28
+    f04CF:
+      title: CII_§2B
+      base_file: f04CF.txt
+      order: 29
+    fACF5:
+      title: CII_§2C
+      base_file: fACF5.txt
+      order: 30
+    f6431:
+      title: CII_§2D
+      base_file: f6431.txt
+      order: 31
+    f2AC2:
+      title: CII_§2E
+      base_file: f2AC2.txt
+      order: 32
+    f15EB:
+      title: CII_§2F
+      base_file: f15EB.txt
+      order: 33
+    fDAAB:
+      title: CII_§2G
+      base_file: fDAAB.txt
+      order: 34
+    f8388:
+      title: CII_§2H
+      base_file: f8388.txt
+      order: 35
+    f0D9A:
+      title: CII_§2I
+      base_file: f0D9A.txt
+      order: 36
+    f0A22:
+      title: CII_§2J
+      base_file: f0A22.txt
+      order: 37
+    f4DE5:
+      title: CIII_§3A
+      base_file: f4DE5.txt
+      order: 38
+    f891E:
+      title: CIII_§3B
+      base_file: f891E.txt
+      order: 39
+    fCBC2:
+      title: CIII_§3C
+      base_file: fCBC2.txt
+      order: 40
+    f87DD:
+      title: CIII_§3D
+      base_file: f87DD.txt
+      order: 41
+    f5ABB:
+      title: CIII_§3E
+      base_file: f5ABB.txt
+      order: 42
+    f9DCD:
+      title: CIII_§3F
+      base_file: f9DCD.txt
+      order: 43
+    fB00B:
+      title: CIII_§3G
+      base_file: fB00B.txt
+      order: 44
+    fE72E:
+      title: CIII_§3H
+      base_file: fE72E.txt
+      order: 45
+    f8F9E:
+      title: CIII_§3I
+      base_file: f8F9E.txt
+      order: 46
+    f2C19:
+      title: CIII_§3J
+      base_file: f2C19.txt
+      order: 47
+    f50EC:
+      title: CIII_§3K
+      base_file: f50EC.txt
+      order: 48
+    fCB81:
+      title: CIII_§3L
+      base_file: fCB81.txt
+      order: 49
+    f58DB:
+      title: CIII_§3M
+      base_file: f58DB.txt
+      order: 50
+    fF49C:
+      title: CIII_§3N
+      base_file: fF49C.txt
+      order: 51
+    f38F9:
+      title: CIII_§3O
+      base_file: f38F9.txt
+      order: 52
+  chapter_to_tile:
+    CI: §Ch 1
+    CII: §Ch 2
+    CIII: §Ch 3
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
